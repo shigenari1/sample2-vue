@@ -1,2 +1,2 @@
-# sample2-vue
+# sample-vue
 Created with CodeSandbox
